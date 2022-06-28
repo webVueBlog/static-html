@@ -1,0 +1,56 @@
+<svg width="500" height="112" viewBox="0 0 500 112" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    desk
+  </title>
+  <defs>
+    <rect id="a" width="500" height="11" rx="5.5"/>
+    <mask id="j" x="0" y="0" width="500" height="11" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path id="b" d="M0 0h70v103H0z"/>
+    <mask id="k" x="0" y="0" width="70" height="103" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M2 26h66v2H2z"/>
+    <mask id="l" x="0" y="0" width="66" height="2" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <path id="d" d="M2 54h66v2H2z"/>
+    <mask id="m" x="0" y="0" width="66" height="2" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <circle id="e" cx="35" cy="14" r="4"/>
+    <mask id="n" x="0" y="0" width="8" height="8" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+    <circle id="f" cx="35" cy="41" r="4"/>
+    <mask id="o" x="0" y="0" width="8" height="8" fill="#fff">
+      <use xlink:href="#f"/>
+    </mask>
+    <circle id="g" cx="35" cy="69" r="4"/>
+    <mask id="p" x="0" y="0" width="8" height="8" fill="#fff">
+      <use xlink:href="#g"/>
+    </mask>
+    <path id="h" d="M451 9h14v103h-14z"/>
+    <mask id="q" x="0" y="0" width="14" height="103" fill="#fff">
+      <use xlink:href="#h"/>
+    </mask>
+    <rect id="i" x="446" y="9" width="24" height="8" rx="4"/>
+    <mask id="r" x="0" y="0" width="24" height="8" fill="#fff">
+      <use xlink:href="#i"/>
+    </mask>
+  </defs>
+  <g stroke="#1A2530" stroke-width="4" fill="#FFF" fill-rule="evenodd">
+    <use mask="url(#j)" xlink:href="#a"/>
+    <g transform="translate(24 9)">
+      <use mask="url(#k)" xlink:href="#b"/>
+      <use mask="url(#l)" xlink:href="#c"/>
+      <use mask="url(#m)" xlink:href="#d"/>
+      <use mask="url(#n)" xlink:href="#e"/>
+      <use mask="url(#o)" xlink:href="#f"/>
+      <use mask="url(#p)" xlink:href="#g"/>
+    </g>
+    <use mask="url(#q)" xlink:href="#h"/>
+    <use mask="url(#r)" xlink:href="#i"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="28" height="45" viewBox="0 0 28 45" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    cup
+  </title>
+  <defs>
+    <path id="a" d="M0 16h22v28H0z"/>
+    <mask id="d" x="0" y="0" width="22" height="28" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path id="b" d="M20 22h8v16h-8z"/>
+    <mask id="e" x="0" y="0" width="8" height="16" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M20 26h5v8h-5z"/>
+    <mask id="f" x="0" y="0" width="5" height="8" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+  </defs>
+  <g transform="translate(0 1)" stroke="#1A2530" fill="none" fill-rule="evenodd">
+    <use mask="url(#d)" stroke-width="4" fill="#FFF" xlink:href="#a"/>
+    <use mask="url(#e)" stroke-width="4" fill="#FFF" xlink:href="#b"/>
+    <use mask="url(#f)" stroke-width="4" fill="#FFF" xlink:href="#c"/>
+    <path d="M10.923 0s-3.46.692-3.46 3.462c0 2.77 2.422 3.115 3.46 3.46 1.04.347 3.115 1.386 3.115 3.463S11.615 13.5 10.23 13.5" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

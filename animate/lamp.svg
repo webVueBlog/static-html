@@ -1,0 +1,37 @@
+<svg width="88" height="107" viewBox="0 0 88 107" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    lamp
+  </title>
+  <defs>
+    <rect id="a" x="50" y="90" width="7" height="8" rx="3.5"/>
+    <mask id="f" x="0" y="0" width="7" height="8" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path id="b" d="M19.805 31.688h60.71v8h-60.71z"/>
+    <mask id="g" x="0" y="0" width="60.711" height="8" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M48.968 76.03H92.62v8H48.968z"/>
+    <mask id="h" x="0" y="0" width="43.652" height="8" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <rect id="d" x="42" y="95" width="32" height="13" rx="6.5"/>
+    <mask id="i" x="0" y="0" width="32" height="13" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <rect id="e" x="26.157" y="1.298" width="10.308" height="19" rx="5.154"/>
+    <mask id="j" x="0" y="0" width="10.308" height="19" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+  </defs>
+  <g transform="translate(-1 -1)" stroke="#1A2530" fill="#FFF" fill-rule="evenodd">
+    <use mask="url(#f)" stroke-width="4" xlink:href="#a"/>
+    <use mask="url(#g)" stroke-width="4" transform="rotate(35 50.16 35.688)" xlink:href="#b"/>
+    <use mask="url(#h)" stroke-width="4" transform="rotate(-61 70.794 80.03)" xlink:href="#c"/>
+    <use mask="url(#i)" stroke-width="4" xlink:href="#d"/>
+    <circle stroke-width="2" cx="79.5" cy="58.5" r="8.5"/>
+    <circle stroke-width="2" cx="79.5" cy="58.5" r="1.5"/>
+    <use mask="url(#j)" stroke-width="4" transform="rotate(31 31.31 10.798)" xlink:href="#e"/>
+    <path d="M36.086 38.175C40.94 25.763 39.14 13.303 30.96 8.19c-7.738-4.834-18.88-1.657-27.704 6.996l32.83 22.99z" stroke-width="2"/>
+  </g>
+</svg>

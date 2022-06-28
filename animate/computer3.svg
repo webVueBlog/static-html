@@ -1,0 +1,39 @@
+<svg width="189" height="161" viewBox="0 0 189 161" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    computer3
+  </title>
+  <defs>
+    <rect id="a" width="189" height="119" rx="12"/>
+    <mask id="e" x="0" y="0" width="189" height="119" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" x="8" y="8" width="173" height="93" rx="4"/>
+    <mask id="f" x="0" y="0" width="173" height="93" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M74.18 117h41.58L126 155H64z"/>
+    <mask id="g" x="0" y="0" width="62" height="38" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <rect id="d" x="40" y="146" width="109" height="15" rx="7.5"/>
+    <mask id="h" x="0" y="0" width="109" height="15" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use stroke="#1A2530" mask="url(#e)" stroke-width="4" fill="#FFF" xlink:href="#a"/>
+    <path d="M87.5 106h15" stroke="#1A2530" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <use stroke="#1A2530" mask="url(#f)" stroke-width="4" fill="#FFF" xlink:href="#b"/>
+    <use stroke="#1A2530" mask="url(#g)" stroke-width="4" fill="#FFF" xlink:href="#c"/>
+    <use stroke="#1A2530" mask="url(#h)" stroke-width="4" fill="#FFF" xlink:href="#d"/>
+    <path d="M24 78.195c11.62 0 40.05 5.188 67.85-23.11C119.65 26.784 165.28 18 170.227 18" stroke="#E8E9EA" stroke-width="2"/>
+    <path d="M29 87.834c11.62 0 22.61-14.606 50.412-42.904 27.8-28.3 81.213-14.63 86.16-14.63" stroke="#E8E9EA" stroke-width="2"/>
+    <path stroke="#1A2530" stroke-width="2" d="M24 90.006l26.604-32.608 32.783-5.818 33.73-12.586 41.44 8.397"/>
+    <circle stroke="#1A2530" stroke-width="2" fill="#FFF" cx="158" cy="47" r="4"/>
+    <circle stroke="#1A2530" stroke-width="2" fill="#FFF" cx="117" cy="39" r="4"/>
+    <circle stroke="#1A2530" stroke-width="2" fill="#FFF" cx="83" cy="51" r="4"/>
+    <circle stroke="#1A2530" stroke-width="2" fill="#FFF" cx="51" cy="56" r="4"/>
+    <path d="M163.5 85.5h5M18.5 28.5h4M18.5 38.5h4M18.5 48.5h4M18.5 58.5h4" stroke="#1A2530" stroke-width="2" stroke-linecap="square"/>
+    <path d="M28 27.5v61M29.5 93h134.06" stroke="#1A2530" stroke-width="2" stroke-linecap="square" stroke-dasharray="5"/>
+  </g>
+</svg>

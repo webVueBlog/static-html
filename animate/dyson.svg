@@ -1,0 +1,39 @@
+<svg width="40" height="140" viewBox="0 0 40 140" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    dyson
+  </title>
+  <defs>
+    <path id="a" d="M0 90h40v50H0z"/>
+    <mask id="g" x="0" y="0" width="40" height="50" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M0 124s10-5 20-5 20 5 20 5v16H0v-16z" id="b"/>
+    <mask id="h" x="0" y="0" width="40" height="21" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <circle id="c" cx="20" cy="131" r="3"/>
+    <mask id="i" x="0" y="0" width="6" height="6" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <path id="d" d="M0 90l20-14 20 14v2H0z"/>
+    <mask id="j" x="0" y="0" width="40" height="16" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <rect id="e" x="4" width="32" height="90" rx="16"/>
+    <mask id="k" x="0" y="0" width="32" height="90" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+    <rect id="f" x="9" y="5" width="22" height="80" rx="11"/>
+    <mask id="l" x="0" y="0" width="22" height="80" fill="#fff">
+      <use xlink:href="#f"/>
+    </mask>
+  </defs>
+  <g stroke="#D1D3D6" stroke-width="4" fill="#FFF" fill-rule="evenodd">
+    <use mask="url(#g)" xlink:href="#a"/>
+    <use mask="url(#h)" xlink:href="#b"/>
+    <use mask="url(#i)" xlink:href="#c"/>
+    <use mask="url(#j)" xlink:href="#d"/>
+    <use mask="url(#k)" xlink:href="#e"/>
+    <use mask="url(#l)" xlink:href="#f"/>
+  </g>
+</svg>

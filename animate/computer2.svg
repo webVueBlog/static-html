@@ -1,0 +1,31 @@
+<svg width="40" height="80" viewBox="0 0 40 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    computer2
+  </title>
+  <defs>
+    <rect id="a" width="40" height="80" rx="4"/>
+    <mask id="e" x="0" y="0" width="40" height="80" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" x="6" y="6" width="28" height="6" rx="2"/>
+    <mask id="f" x="0" y="0" width="28" height="6" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <rect id="c" x="6" y="14" width="28" height="6" rx="2"/>
+    <mask id="g" x="0" y="0" width="28" height="6" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <path id="d" d="M15 46h10v24H15z"/>
+    <mask id="h" x="0" y="0" width="10" height="24" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+  </defs>
+  <g stroke="#1A2530" fill="none" fill-rule="evenodd">
+    <use mask="url(#e)" stroke-width="4" fill="#FFF" xlink:href="#a"/>
+    <use mask="url(#f)" stroke-width="4" fill="#FFF" xlink:href="#b"/>
+    <use mask="url(#g)" stroke-width="4" fill="#FFF" xlink:href="#c"/>
+    <use mask="url(#h)" stroke-width="4" fill="#FFF" xlink:href="#d"/>
+    <circle stroke-width="2" fill="#FFF" cx="20" cy="37" r="3"/>
+    <path d="M19 53h2M19 58h2M19 63h2" stroke-width="2" stroke-linecap="square"/>
+  </g>
+</svg>

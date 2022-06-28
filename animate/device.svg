@@ -1,0 +1,70 @@
+<svg width="120" height="56" viewBox="0 0 120 56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    device
+  </title>
+  <defs>
+    <path id="a" d="M0 50h120v6H0z"/>
+    <mask id="l" x="0" y="0" width="120" height="6" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" width="60" height="48" rx="4"/>
+    <mask id="m" x="0" y="0" width="60" height="48" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M5 4h48v40H5z"/>
+    <mask id="n" x="0" y="0" width="48" height="40" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <circle id="d" cx="55.5" cy="24" r="1.5"/>
+    <mask id="o" x="0" y="0" width="3" height="3" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <rect id="e" width="24" height="40" rx="4"/>
+    <mask id="p" x="0" y="0" width="24" height="40" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+    <path id="f" d="M4 5h16v28H4z"/>
+    <mask id="q" x="0" y="0" width="16" height="28" fill="#fff">
+      <use xlink:href="#f"/>
+    </mask>
+    <circle id="g" cx="12" cy="35.5" r="1.5"/>
+    <mask id="r" x="0" y="0" width="3" height="3" fill="#fff">
+      <use xlink:href="#g"/>
+    </mask>
+    <rect id="h" width="28" height="46" rx="4"/>
+    <mask id="s" x="0" y="0" width="28" height="46" fill="#fff">
+      <use xlink:href="#h"/>
+    </mask>
+    <path id="i" d="M4 6h20v33H4z"/>
+    <mask id="t" x="0" y="0" width="20" height="33" fill="#fff">
+      <use xlink:href="#i"/>
+    </mask>
+    <rect id="j" x="11" y="40" width="6" height="3" rx="1"/>
+    <mask id="u" x="0" y="0" width="6" height="3" fill="#fff">
+      <use xlink:href="#j"/>
+    </mask>
+    <rect id="k" x="10" y="3" width="8" height="2" rx="1"/>
+    <mask id="v" x="0" y="0" width="8" height="2" fill="#fff">
+      <use xlink:href="#k"/>
+    </mask>
+  </defs>
+  <g stroke="#D1D3D6" stroke-width="4" fill="none" fill-rule="evenodd">
+    <use mask="url(#l)" fill="#FFF" xlink:href="#a"/>
+    <g transform="translate(17)">
+      <use mask="url(#m)" fill="#FFF" xlink:href="#b"/>
+      <use mask="url(#n)" fill="#FFF" xlink:href="#c"/>
+      <use mask="url(#o)" fill="#D1D3D6" xlink:href="#d"/>
+    </g>
+    <g transform="translate(7 8)">
+      <use mask="url(#p)" fill="#FFF" xlink:href="#e"/>
+      <use mask="url(#q)" fill="#FFF" xlink:href="#f"/>
+      <use mask="url(#r)" fill="#D1D3D6" xlink:href="#g"/>
+    </g>
+    <g transform="translate(83 2)" fill="#FFF">
+      <use mask="url(#s)" xlink:href="#h"/>
+      <use mask="url(#t)" xlink:href="#i"/>
+      <use mask="url(#u)" xlink:href="#j"/>
+      <use mask="url(#v)" xlink:href="#k"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="47" height="38" viewBox="0 0 47 38" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    hamberger
+  </title>
+  <defs>
+    <rect id="a" y="15" width="47" height="7" rx="3.5"/>
+    <mask id="e" x="0" y="0" width="47" height="7" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M.038 14C.59 6.176 7.12 0 15.08 0h16.84c7.966 0 14.49 6.174 15.042 14H.038z" id="b"/>
+    <mask id="f" x="0" y="0" width="46.924" height="14" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path d="M.005 38c.593-8.383 7.588-15 16.118-15h14.683c8.536 0 15.527 6.615 16.118 15H.004z" id="c"/>
+    <mask id="g" x="0" y="0" width="46.919" height="15" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <path d="M6 20h22v7.06s-.864 4.044-4.11 4.044c-3.244 0-.783-5.202-2.957-5.202-1.815 0 .116 6.096-4.463 6.096-3.875 0-1.213-6.096-3.27-6.096s.04 5.202-3.522 5.202C5.122 31.104 6 25.902 6 25.902V20z" id="d"/>
+    <mask id="h" x="0" y="0" width="22.068" height="11.998" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+  </defs>
+  <g stroke="#1A2530" fill="none" fill-rule="evenodd">
+    <use mask="url(#e)" stroke-width="4" fill="#FFF" xlink:href="#a"/>
+    <use mask="url(#f)" stroke-width="4" fill="#FFF" xlink:href="#b"/>
+    <use mask="url(#g)" stroke-width="4" fill="#FFF" transform="rotate(180 23.465 30.5)" xlink:href="#c"/>
+    <path d="M29.762 21.318s5.193 8.18 5.193 9.457c0 1.276 7.045-9.457 7.045-9.457H29.762z" stroke-width="2" fill="#FFF"/>
+    <use mask="url(#h)" stroke-width="4" fill="#FFF" xlink:href="#d"/>
+    <path d="M18 5h2M23 5h3M29 5h1M29 5h1m-1 0h1M24 8h1m-1 0h1" stroke-width="2" stroke-linecap="square"/>
+  </g>
+</svg>

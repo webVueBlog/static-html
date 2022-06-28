@@ -1,0 +1,77 @@
+<svg width="34" height="35" viewBox="0 0 34 35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    iconman
+  </title>
+  <defs>
+    <path id="a" d="M12 21h11v7H12z"/>
+    <mask id="n" x="0" y="0" width="11" height="7" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" x="10" y="13" width="15" height="10" rx="4"/>
+    <mask id="o" x="0" y="0" width="15" height="10" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path d="M11 3c0-1.105.893-2 2.003-2H21.998C23.104 1 24 1.887 24 3v6c0 1.105-.634 2.634-1.41 3.41L20 15h-5l-2.59-2.59C11.63 11.63 11 10.113 11 9V3z" id="c"/>
+    <mask id="p" x="0" y="0" width="13" height="14" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <path id="d" d="M15 .5l2.5-.5 2.5.5-.5 5.5h-4z"/>
+    <mask id="q" x="0" y="0" width="5" height="6" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <rect id="e" x="10" y="24" width="8" height="10" rx="2"/>
+    <mask id="r" x="0" y="0" width="8" height="10" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+    <rect id="f" x="24.465" y="15.316" width="5.823" height="10" rx="2"/>
+    <mask id="s" x="0" y="0" width="5.823" height="10" fill="#fff">
+      <use xlink:href="#f"/>
+    </mask>
+    <rect id="g" x="29" y="23" width="5" height="5" rx="2"/>
+    <mask id="t" x="0" y="0" width="5" height="5" fill="#fff">
+      <use xlink:href="#g"/>
+    </mask>
+    <path d="M2.476 10.138c-.618-.915-.375-2.16.543-2.778l1.503-1.015c.918-.62 2.158-.385 2.78.537l3.356 4.975c.616.916.373 2.16-.545 2.778L8.61 15.65c-.917.62-2.157.385-2.78-.537l-3.354-4.975" id="h"/>
+    <mask id="u" x="0" y="0" width="8.866" height="9.996" fill="#fff">
+      <use xlink:href="#h"/>
+    </mask>
+    <rect id="i" x=".134" y="3" width="5" height="5" rx="2"/>
+    <mask id="v" x="0" y="0" width="5" height="5" fill="#fff">
+      <use xlink:href="#i"/>
+    </mask>
+    <rect id="j" x="17" y="24" width="8" height="10" rx="2"/>
+    <mask id="w" x="0" y="0" width="8" height="10" fill="#fff">
+      <use xlink:href="#j"/>
+    </mask>
+    <circle id="k" cx="17.5" cy="17.5" r="1.5"/>
+    <mask id="x" x="0" y="0" width="3" height="3" fill="#fff">
+      <use xlink:href="#k"/>
+    </mask>
+    <path id="l" d="M18 8.5v1h2.5l.5-1v-1z"/>
+    <mask id="y" x="0" y="0" width="3" height="2" fill="#fff">
+      <use xlink:href="#l"/>
+    </mask>
+    <path id="m" d="M14 8.5v1h2.5l.5-1v-1z"/>
+    <mask id="z" x="0" y="0" width="3" height="2" fill="#fff">
+      <use xlink:href="#m"/>
+    </mask>
+  </defs>
+  <g stroke="#1A2530" fill="none" fill-rule="evenodd">
+    <use mask="url(#n)" stroke-width="4" fill="#FFF" xlink:href="#a"/>
+    <use mask="url(#o)" stroke-width="4" fill="#FFF" xlink:href="#b"/>
+    <use mask="url(#p)" stroke-width="4" fill="#FFF" transform="matrix(-1 0 0 1 35 0)" xlink:href="#c"/>
+    <use mask="url(#q)" stroke-width="4" fill="#FFF" xlink:href="#d"/>
+    <use mask="url(#r)" stroke-width="4" fill="#FFF" xlink:href="#e"/>
+    <use mask="url(#s)" stroke-width="4" fill="#FFF" transform="rotate(-34 27.376 20.316)" xlink:href="#f"/>
+    <use mask="url(#t)" stroke-width="4" fill="#FFF" xlink:href="#g"/>
+    <use mask="url(#u)" stroke-width="4" fill="#FFF" xlink:href="#h"/>
+    <use mask="url(#v)" stroke-width="4" fill="#FFF" xlink:href="#i"/>
+    <use mask="url(#w)" stroke-width="4" fill="#FFF" xlink:href="#j"/>
+    <circle stroke-width="2" fill="#FFF" cx="10.5" cy="15.5" r="2.5"/>
+    <circle stroke-width="2" fill="#FFF" cx="24.5" cy="15.5" r="2.5"/>
+    <path d="M16 34c0-1.657-.895-3-2-3s-2 1.343-2 3h4zM23 34c0-1.657-.895-3-2-3s-2 1.343-2 3h4z" stroke-width="2" fill="#FFF"/>
+    <use mask="url(#x)" stroke-width="4" fill="#1A2530" xlink:href="#k"/>
+    <use mask="url(#y)" stroke-width="4" fill="#D8D8D8" xlink:href="#l"/>
+    <use mask="url(#z)" stroke-width="4" fill="#D8D8D8" transform="matrix(-1 0 0 1 31 0)" xlink:href="#m"/>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="380" height="112" viewBox="0 0 380 112" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    desk2
+  </title>
+  <defs>
+    <rect id="a" width="380" height="11" rx="5.5"/>
+    <mask id="f" x="0" y="0" width="380" height="11" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" x="34" width="24" height="8" rx="4"/>
+    <mask id="g" x="0" y="0" width="24" height="8" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M39.22 6h13.514L8.5 103H0z"/>
+    <mask id="h" x="0" y="0" width="52.734" height="97" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <rect id="d" x="34" width="24" height="8" rx="4"/>
+    <mask id="i" x="0" y="0" width="24" height="8" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <path id="e" d="M39.22 6h13.514L8.5 103H0z"/>
+    <mask id="j" x="0" y="0" width="52.734" height="97" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+  </defs>
+  <g stroke="#1A2530" stroke-width="4" fill="#FFF" fill-rule="evenodd">
+    <use mask="url(#f)" xlink:href="#a"/>
+    <g transform="translate(12 9)">
+      <use mask="url(#g)" xlink:href="#b"/>
+      <use mask="url(#h)" xlink:href="#c"/>
+    </g>
+    <g transform="matrix(-1 0 0 1 378 9)">
+      <use mask="url(#i)" xlink:href="#d"/>
+      <use mask="url(#j)" xlink:href="#e"/>
+    </g>
+  </g>
+</svg>

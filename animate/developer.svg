@@ -1,0 +1,91 @@
+<svg width="178" height="285" viewBox="0 0 178 285" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    developer
+  </title>
+  <defs>
+    <path d="M33 0h14v17H33V0z" id="a"/>
+    <mask id="g" x="0" y="0" width="14" height="17" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M58 17.997V64c0 9.39-7.602 17-17 17H26c-9.39 0-17-7.604-17-17V25.505l14-3.496 16.966-10.65 16.806 7.973L58 17.997z" id="b"/>
+    <mask id="h" x="0" y="0" width="49" height="69.641" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <rect id="c" width="18" height="12" rx="3"/>
+    <mask id="i" x="0" y="0" width="18" height="12" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <rect id="d" x="21" width="18" height="12" rx="3"/>
+    <mask id="j" x="0" y="0" width="18" height="12" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <path id="e" d="M74 55h10v11H74z"/>
+    <mask id="k" x="0" y="0" width="10" height="11" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+    <rect id="f" x="72" y="48" width="14" height="10" rx="4"/>
+    <mask id="l" x="0" y="0" width="14" height="10" fill="#fff">
+      <use xlink:href="#f"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g stroke="#1A2530" stroke-width="2" fill="#FFF">
+      <path d="M75.303 87.268s13.593-4.932 15.947-6.423c2.354-1.49-18.478-24.296-18.478-24.296s4.738-5.06 3.634-8.035c-1.103-2.975 32.75 25.8 34.796 30.692 2.047 4.892.297 9.13-1.5 11.74-1.797 2.613-25.512 11.824-25.512 11.824"/>
+      <path d="M49.825 91.09s19.138-5.737 21.62-7.108c2.483-1.37 12.242 20.944 13.983 23.362 1.74 2.418-13.215 8.284-13.215 8.284"/>
+    </g>
+    <g transform="translate(1 79)" stroke="#1A2530" fill="#FFF">
+      <path d="M87.092 108.57s6.127-.153 12.02-.153c5.892 0 7.76 3.933 10.736 9.55 2.974 5.615 39.244 78.165 39.244 78.165l-12.013 1.402-49.988-74.33V108.57z" stroke-width="2"/>
+      <path d="M149 196.5s20.5 3.42 22.5 4.21S175 205 175 205h-38l.116-7.005L149 196.5z" stroke-width="2"/>
+      <path d="M90.107 196.42s19.393 3.085 21.893 4.082c2.5.998 4 4.498 4 4.498H77l.975-8.995 12.132.415z" stroke-width="2"/>
+      <path d="M51.81 101.5h44.705c5.893 0 9.8 8.935 9.8 14.084 0 5.15-13.223 81.008-13.223 81.008h-15.02l6.114-64.355s-.023-2.37-1.857-2.37-58.797 8.625-68.017 4.147C5.093 129.534 1 124 1 120" stroke-width="2"/>
+      <use mask="url(#g)" stroke-width="4" xlink:href="#a"/>
+      <path d="M60.404 20.705l-10.22-8.534L29.3 10.45s-10.513 12.65-14.84 23.657c-4.327 11.008-3.966 67.037-3.966 67.037s-15.156 20.76-8.178 20.76c4.032 0-.64-.563 12.144 1.334 9.537-4.142 40.405-14.675 49.2-18.8C62.517 88.69 60.494 65.834 61.81 62.6" stroke-width="2"/>
+    </g>
+    <g transform="translate(10 1)">
+      <path d="M56.48 42.166s9.428-1.756 9.428 6.278c0 8.035-6.976 9.388-9.427 10.133" stroke="#1A2530" stroke-width="2" fill="#FFF"/>
+      <path d="M61.695 48.25s-1.862 3.83-3.627 3.082" stroke="#1A2530" stroke-width="2" stroke-linecap="round"/>
+      <g stroke="#1A2530" stroke-width="2">
+        <path d="M9.52 42.166S.09 40.41.09 48.444c0 8.035 6.976 9.388 9.427 10.133" fill="#FFF"/>
+        <path d="M4.305 48.25s1.862 3.83 3.627 3.082" stroke-linecap="round"/>
+      </g>
+      <path fill="#FFF" d="M11.824 17.587l-2.97 3.37 3.8 3.83 6.982 1.576 8.187-3.925-3.707-6.736-10.782-.834"/>
+      <use stroke="#1A2530" mask="url(#h)" stroke-width="4" fill="#FFF" xlink:href="#b"/>
+      <g stroke="#1A2530" stroke-width="2" fill="#FFF">
+        <path d="M4.196 20.878c-3.744-7.82 6.54-18.91 14.14-20.216 7.6-1.306 15.915.366 22.523 6.6 6.606 6.23 15.442 6.773 18.287 5.934 2.845-.838 5.958-1.696 5.958-1.696s-1.268 17.438-14.153 18.953c-11.054 1.3-19.24.585-27.798-8.903-1.417-1.57-2.313-2.515-3.765-4.598" stroke-linecap="round"/>
+        <path d="M63.74 19.706S37.97 31.824 25.6 8.19" stroke-linecap="round"/>
+        <path d="M11.164 12.863s-15.79 10.18-5.094 28.35c.318.54.658 1.087 1.024 1.64" stroke-linecap="round"/>
+        <path d="M60.563 26.032s7.234 11.047-3.316 14.19"/>
+        <path d="M24.134 22.334s-7.316 10.792-13.36 8.45c-6.046-2.34.627-9.762 2.174-10.346" stroke-linecap="round"/>
+      </g>
+      <g transform="translate(14 40)" stroke="#1A2530">
+        <use mask="url(#i)" stroke-width="4" xlink:href="#c"/>
+        <use mask="url(#j)" stroke-width="4" xlink:href="#d"/>
+        <circle stroke-width="2" cx="9" cy="6" r="1"/>
+        <circle stroke-width="2" cx="30" cy="6" r="1"/>
+        <path d="M17.5 4h4" stroke-width="2" stroke-linecap="square"/>
+      </g>
+      <path d="M34.19 66.048s9.695 1.982 12.484-7.23" stroke="#1A2530" stroke-width="2"/>
+      <path d="M26.977 37.38s-7.2-1.39-10.634-1.39" stroke="#1A2530" stroke-width="2" stroke-linecap="round"/>
+      <path d="M39.337 37.375s7.474-1.667 10.04-.833" stroke="#1A2530" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(38 97)" stroke="#1A2530" fill="#FFF">
+      <path d="M38.098 32.68s15.18 16.92 17.736 17.976c2.556 1.056 29.31.056 31.598.056 2.29 0 10.063-3.957 12.184-3.957 2.12 0 11.952 9.396 13.315 10.76 1.363 1.36.63 10.442-.49 10.442-1.122 0-19.406-5.513-21.267-5.513-1.86 0-35.214 5.302-43.563 5.302-8.348 0-25.65-26.15-25.65-26.15l16.138-8.917z" stroke-width="2"/>
+      <path d="M21.244.61S42.492 28.106 43.55 30.024C44.604 31.94 18.093 47.27 18.093 47.27S4.387 36.324.728 27.05" stroke-width="2"/>
+      <use mask="url(#k)" stroke-width="4" xlink:href="#e"/>
+      <use mask="url(#l)" stroke-width="4" xlink:href="#f"/>
+    </g>
+    <g fill="#D1D3D6">
+      <path d="M39.6 98.13l-.03-.13-13.07.5L23 104h17.68l.033.117L56.5 98l-4.99-3.97-11.91 4.1z"/>
+      <path d="M39.63 111l21.414-7.373L65 108.5l-23.052 8.336.05.164H17l2-6h20.63z"/>
+      <path d="M41.5 125l26-13.5L71 116l-26.5 14"/>
+      <path d="M49 134.5l25-14 3.5 4.5-24 14"/>
+      <path d="M68 87.5L81 109l-5 2.5-14.5-22"/>
+      <path d="M16 124h20.5l3 6h-24"/>
+      <path d="M15 137h30.5l5.5 6H15"/>
+      <path d="M15 150.5l45-.5v6l-45 .5"/>
+      <path d="M15 163h46l.5 6H15"/>
+      <path d="M15 176h47l.5 6-47.5-.5"/>
+      <path d="M7 194.5l2.5-5L45 189l-14 5"/>
+    </g>
+  </g>
+</svg>
